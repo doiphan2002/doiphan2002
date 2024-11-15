@@ -22,10 +22,11 @@
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doiphan2002&show_icons=true&theme=tokyonight&hide_border=true&show=reviews"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=doiphan2002&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
-  <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=doiphan2002&ayout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400&hide=html,css,scss,handlebars" />
-  </div>
 </p>
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=doiphan2002&ayout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400&hide=html,css,scss,handlebars" />
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&width=435&lines=Thanks+for+watching+my+profile!">
