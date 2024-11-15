@@ -17,9 +17,9 @@
 - 😅 I'm a very very newbie in coding 🐧
 - 😎 All of my projects are available at [**my repositories**](https://github.com/doiphan2002?tab=repositories)
 
-## 📈  GitHub Stats
-
 <br><br>
+
+## 📈  GitHub Stats
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doiphan2002&show_icons=true&theme=tokyonight&hide_border=true&show=reviews"/>
